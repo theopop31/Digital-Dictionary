@@ -1,0 +1,111 @@
+[
+  {
+    "word": "pisică",
+    "word_en": "cat",
+    "type": "noun",
+    "singular": [
+      "pisică"
+    ],
+    "plural": [
+      "pisici"
+    ],
+    "definitions": [
+      {
+        "dict": "Dicționar de sinonime",
+        "dictType": "synonyms",
+        "year": 1998,
+        "text": [
+          "mâță",
+          "cotoroabă",
+          "cătușă"
+        ]
+      },
+      {
+        "dict": "Dicționarul explicativ al limbii române, ediția a II-a",
+        "dictType": "definitions",
+        "year": 2002,
+        "text": [
+          "Mamifer domestic carnivor din familia felinelor, cu corpul suplu, acoperit cu blană deasă și moale de diferite culori, cu capul rotund, cu botul foarte scurt, cu maxilarele puternice și cu ghearele retractile și ascuțite",
+          "Dispozitiv de agățare și de desprindere a berbecului din capătul cablului de ridicare de la sonetele cu cădere liberă",
+          "Mănunchi de sârme de oțel, folosit pentru curățarea de noroi sau de pământ a utilajelor de foraj"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "câine",
+    "word_en": "dog",
+    "type": "noun",
+    "singular": [
+      "câine"
+    ],
+    "plural": [
+      "câini"
+    ],
+    "definitions": [
+      {
+        "dict": "Dicționar de sinonime",
+        "dictType": "synonyms",
+        "year": 1998,
+        "text": [
+          "lătrător",
+          "molie",
+          "dulău"
+        ]
+      },
+      {
+        "dict": "Dicționar universal al limbei române, ediția a VI-a)",
+        "dictType": "definitions",
+        "year": 1929,
+        "text": [
+          "animal domestic din familia carnivorelor digitigrade",
+          "fig. (termen de dispreț) om rău (câinele fiind considerat ca tipul răutății): câinele de tată-său Pop",
+          "nume a două constelațiuni",
+          "Mold. (sens tehnic) masă de tras doage"
+        ]
+      },
+      {
+        "dict": "Dicționar de sinonime",
+        "dictType": "synonyms",
+        "year": 2002,
+        "text": [
+          "mâţa-popii",
+          "aportor"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "joc",
+    "word_en": "game",
+    "type": "noun",
+    "singular": [
+      "joc"
+    ],
+    "plural": [
+      "jocuri"
+    ],
+    "definitions": [
+      {
+        "dict": "Dicționar de sinonime",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "delectare",
+          "distracţie",
+          "divertisment"
+        ]
+      },
+      {
+        "dict": "Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)",
+        "dictType": "definitions",
+        "year": 2009,
+        "text": [
+          "Activitate distractivă (mai ales la copii)",
+          "Competiție sportivă de echipă căreia îi este proprie și lupta sportivă (baschet, fotbal, rugbi etc.)",
+          "(Și în sintagma joc de noroc) \u003d distracție cu cărți, cu zaruri etc. care angajează de obicei sume de bani și care se desfășoară după anumite reguli respectate de parteneri, câștigul fiind determinat de întâmplare sau de calcul."
+        ]
+      }
+    ]
+  }
+]
